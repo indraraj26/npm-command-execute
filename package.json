@@ -1,0 +1,13 @@
+{
+	"name": "npm-command-execute",
+	"version": "1.0.0",
+	"description": "",
+	"main": "npmexecute.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build-dist": "node npmexecute.js --lolwa"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
